@@ -48,6 +48,6 @@ If you're also interested in breaking into cybersecurity, here are some beginner
 
 ## Connect with Me  
 Let’s collaborate and grow together!  
-- LinkedIn: [Your LinkedIn Profile](#)  
+- LinkedIn: [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/silvio-banfic-27646427/)  
 - GitHub: [Your GitHub Profile](#)  
 
