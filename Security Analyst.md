@@ -68,19 +68,7 @@ The Cyber Security Analyst learning path has been eye-opening in understanding h
 
 ---
 
-## Proof of Completion
-(Screenshot or certificate to be added here.)
 
----
-
-## Repository Link
-This document is part of my [Cybersecurity Learning Journey](#). Feel free to explore the repository and follow my progress!
-
----
-
-## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](#)
-- GitHub: [Your GitHub Profile](#)
 
 
 
