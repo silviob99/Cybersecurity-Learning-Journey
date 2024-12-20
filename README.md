@@ -49,5 +49,5 @@ If you're also interested in breaking into cybersecurity, here are some beginner
 ## Connect with Me  
 Let’s collaborate and grow together!  
 - LinkedIn: [Silvio Banfic](https://www.linkedin.com/in/silvio-banfic-27646427/)  
-- GitHub: [silviob99]https://github.com/silviob99 
+- GitHub: [silviob99](https://github.com/silviob99)
 
