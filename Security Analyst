@@ -17,13 +17,6 @@ Welcome to my documentation for the **Cyber Security Analyst** role learning pat
 
 ---
 
-## Responsibilities
-- **Stakeholder Collaboration**: Working with various stakeholders to analyze the cybersecurity landscape throughout the organization.
-- **Reporting**: Compiling ongoing reports about the safety of networks, documenting security issues and measures taken in response.
-- **Security Planning**: Developing security plans by researching new attack tools, trends, and recommending preventative measures to maintain data security across teams.
-
----
-
 ## Tools Explored
 - **SIEM Platforms**: Practical experience with industry-standard tools such as Splunk or similar.
 - **Network Traffic Analysis Tools**: Learning tools like Wireshark for monitoring and analyzing traffic.
@@ -40,8 +33,10 @@ Key takeaways:
 
 ---
 
-## Reflection
-The Cyber Security Analyst learning path has been eye-opening in understanding how businesses defend against threats. I particularly enjoyed working with SIEM tools, as they provide powerful insights into network activity and potential vulnerabilities.
+## Responsibilities
+- Working with various stakeholders to analyze the cybersecurity landscape throughout the organization.
+- Compiling ongoing reports about the safety of networks, documenting security issues and measures taken in response.
+- Developing security plans by researching new attack tools, trends, and recommending preventative measures to maintain data security across teams.
 
 ---
 
@@ -61,12 +56,32 @@ The Cyber Security Analyst learning path has been eye-opening in understanding h
 
 ---
 
+## Reflection
+The Cyber Security Analyst learning path has been eye-opening in understanding how businesses defend against threats. I particularly enjoyed working with SIEM tools, as they provide powerful insights into network activity and potential vulnerabilities.
+
+---
+
 ## Next Steps
 - Continue advancing through the Cyber Security Analyst path on TryHackMe.
 - Explore additional tools like [Elastic Stack](https://www.elastic.co/) for SIEM purposes.
 - Begin building my own simulated Security Operations Center (SOC) environment for practice.
 
 ---
+
+## Proof of Completion
+(Screenshot or certificate to be added here.)
+
+---
+
+## Repository Link
+This document is part of my [Cybersecurity Learning Journey](#). Feel free to explore the repository and follow my progress!
+
+---
+
+## Connect with Me
+- LinkedIn: [Your LinkedIn Profile](#)
+- GitHub: [Your GitHub Profile](#)
+
 
 
 
